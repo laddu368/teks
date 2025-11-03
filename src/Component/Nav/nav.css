@@ -1,0 +1,15 @@
+nav ul li a{
+    text-decoration: none;
+}
+nav ul li{
+    border: 2px solid salmon;
+    margin: 10px;
+    list-style-type: none;
+    display: inline-block;
+    background-color: wheat;
+ 
+}
+nav ul{
+    border: 10px solid green;
+       background: linear-gradient(violet,red,skyblue);
+}
